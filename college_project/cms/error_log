@@ -1,0 +1,10 @@
+[17-Aug-2015 05:36:02 UTC] PHP Warning:  imagejpeg(../images/feature/7177153024.JPG): failed to open stream: No such file or directory in /home/stealthmedialtdd/public_html/elephantnz/cms/productaddscript.php on line 191
+[17-Aug-2015 05:36:02 UTC] PHP Warning:  imagejpeg(../images/feature/thumb_7177153024.JPG): failed to open stream: No such file or directory in /home/stealthmedialtdd/public_html/elephantnz/cms/productaddscript.php on line 239
+[17-Aug-2015 05:53:33 UTC] PHP Warning:  imagejpeg(../images/feature/5626212041.JPG): failed to open stream: No such file or directory in /home/stealthmedialtdd/public_html/elephantnz/cms/imgUpdate.php on line 185
+[17-Aug-2015 05:53:33 UTC] PHP Warning:  imagejpeg(../images/feature/thumb_5626212041.JPG): failed to open stream: No such file or directory in /home/stealthmedialtdd/public_html/elephantnz/cms/imgUpdate.php on line 233
+[17-Aug-2015 05:53:35 UTC] PHP Warning:  imagejpeg(../images/feature/3560152528.JPG): failed to open stream: No such file or directory in /home/stealthmedialtdd/public_html/elephantnz/cms/imgUpdate.php on line 185
+[17-Aug-2015 05:53:35 UTC] PHP Warning:  imagejpeg(../images/feature/thumb_3560152528.JPG): failed to open stream: No such file or directory in /home/stealthmedialtdd/public_html/elephantnz/cms/imgUpdate.php on line 233
+[17-Aug-2015 06:12:47 UTC] PHP Warning:  imagejpeg(../images/feature/5646405857.JPG): failed to open stream: No such file or directory in /home/stealthmedialtdd/public_html/elephantnz/cms/productaddscript.php on line 191
+[17-Aug-2015 06:12:47 UTC] PHP Warning:  imagejpeg(../images/feature/thumb_5646405857.JPG): failed to open stream: No such file or directory in /home/stealthmedialtdd/public_html/elephantnz/cms/productaddscript.php on line 239
+[19-Oct-2015 12:10:07 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/stealthmedialtdd/public_html/elephantnz/cms/media-add-script.php on line 165
+[19-Oct-2015 12:10:08 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/stealthmedialtdd/public_html/elephantnz/cms/media-add-script.php on line 167
